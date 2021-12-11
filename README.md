@@ -1,13 +1,13 @@
 # ExamGo
 
-How To run Front-end (Angular)
+How To run Front-end (Angular) <br>
 $ git clone https://github.com/ritweekraj2802/ExamGo.git <br>
 $ cd Frontend <br>
 $ cd quiz <br>
 $ npm install <br>
 $ ng serve  <br>
 
-How To run Back-end 
+How To run Back-end  <br>
 $ git clone https://github.com/ritweekraj2802/ExamGo.git <br>
 $ cd Backend <br>
 $ npm install <br>
